@@ -1,2 +1,3 @@
 # kickstarter-analysis
-Analysis of Kickstarter data
+Analysis of Kickstarter Campaigns
+In-depth analysis of kickstarter campaigns regarding plays.
